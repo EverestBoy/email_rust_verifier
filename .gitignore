@@ -1,0 +1,12 @@
+# Generated
+target
+
+# OS-related files
+.DS_Store
+
+# Log files
+*.log
+
+# Secrets
+*.csv
+.env
